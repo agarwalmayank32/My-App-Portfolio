@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onClick1(View view)
+    public void onClick(View view)
     {
         String button_text = ((Button)view).getText().toString();
         Toast.makeText(this,"This button will launch "+button_text,Toast.LENGTH_SHORT).show();
