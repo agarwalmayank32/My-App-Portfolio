@@ -1,4 +1,10 @@
-# My_App_Portfolio-Udacity-P0-
-My First Nanodegree Udacity App
+#My App Portfolio
 
-This app connects to the different applications made by the owner for projects given by Udacity(Under Android Developer Nanodegree Program).
+##The goals of this project
+
+- Build an app layout that showcases the apps that will be built across Android Nanodegree journey.
+
+##Required Tasks:
+
+- Create a new project in Android Studio using the "Application with blank activity" template.
+- Create a layout for the main activity, adding a title, buttons for each app, and a style of choice.
