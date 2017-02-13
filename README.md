@@ -1,6 +1,6 @@
 #My App Portfolio
 
-##The goals of this project
+##Aim of this project
 
 - Build an app layout that showcases the apps that will be built across Android Nanodegree journey.
 
